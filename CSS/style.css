@@ -266,7 +266,7 @@ body {
 
 .new_season {
   display: flex;
-  background-image: url(/images/bannerNS.avif);
+  background-image: url(../images/bannerNS.avif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top right;
@@ -278,7 +278,7 @@ body {
 
 .man {
   display: flex;
-  background-image: url(/images/bannerMan.webp);
+  background-image: url(../images/bannerMan.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right;
@@ -290,7 +290,7 @@ body {
 
 .woman {
   display: flex;
-  background-image: url(/images/bannerWoman.avif);
+  background-image: url(../images/bannerWoman.avif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -302,7 +302,7 @@ body {
 
 .accessories {
   display: flex;
-  background-image: url(/images/bannerAcc.avif);
+  background-image: url(../images/bannerAcc.avif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
